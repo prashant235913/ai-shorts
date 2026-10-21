@@ -1,0 +1,23 @@
+{
+  "title": "Walking Through Mohenjo-daro, 4,500 Years Ago",
+  "description": "Grid streets, covered drains and a public bath, built around 2500 BCE. What one of the world's first planned cities looked like.",
+  "hashtags": ["#MohenjoDaro", "#IndusValley", "#AncientHistory", "#History", "#Shorts"],
+  "scenes": [
+    {"narration": "Four and a half thousand years ago, this city had covered drains. Most of Europe didn't for thousands of years.",
+     "image_prompt": "ancient Indus Valley city street with a neat covered brick drain running along it, baked brick houses on both sides, people in simple cotton clothes, 2500 BCE"},
+    {"narration": "Welcome to Mohenjo-daro, on the banks of the Indus, around 2500 BCE.",
+     "image_prompt": "wide view of Mohenjo-daro city beside the Indus river, flat-roofed baked brick buildings in a grid, a raised citadel mound, boats on the river"},
+    {"narration": "The streets run in a grid. Main roads are wide, and side lanes lead into homes built from standard-sized baked bricks.",
+     "image_prompt": "straight wide main street of an ancient brick city with narrow side lanes branching off at right angles, carts pulled by oxen, morning sunlight"},
+    {"narration": "Many houses have their own well and a bathing area, with water flowing out into the street drains.",
+     "image_prompt": "courtyard of an ancient Indus Valley house with a round brick well, a family drawing water with a clay pot, brick bathing platform in the corner"},
+    {"narration": "On the citadel sits the Great Bath, a sealed brick pool, probably used for ritual bathing.",
+     "image_prompt": "the Great Bath of Mohenjo-daro, a large rectangular brick pool with steps at both ends, surrounded by a colonnade, people standing around it"},
+    {"narration": "Traders use stone weights and carved seals, and goods from this region reached as far as Mesopotamia.",
+     "image_prompt": "ancient market stall with cubical stone weights on a balance scale, a trader holding a small carved square seal with an animal motif, clay pots"},
+    {"narration": "Then, slowly, around 1900 BCE, the great Indus cities declined. We still can't read their script.",
+     "image_prompt": "abandoned ancient brick city at dusk, empty streets, crumbling walls, dust in the wind, lonely and quiet atmosphere"},
+    {"narration": "It was rediscovered only in the 1920s. Should we visit Harappa next? Comment yes.",
+     "image_prompt": "archaeologists in 1920s clothing excavating brick walls of an ancient city, sepia toned photograph style, workers carrying baskets of soil"}
+  ]
+}

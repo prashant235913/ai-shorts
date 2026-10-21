@@ -1,0 +1,23 @@
+{
+  "title": "The Colosseum's Opening Day, 80 CE",
+  "description": "Tens of thousands of Romans, a giant sail roof and games that ran for 100 days. What the Colosseum looked like when it opened.",
+  "hashtags": ["#Colosseum", "#AncientRome", "#Rome", "#History", "#Shorts"],
+  "scenes": [
+    {"narration": "It's the year 80, and you're in a crowd of tens of thousands, walking into the newest building in Rome.",
+     "image_prompt": "huge crowd of ancient Romans in togas and tunics streaming toward a brand new gleaming travertine amphitheatre, sunny day, 80 CE"},
+    {"narration": "The emperor Titus has just finished the Flavian Amphitheatre. We call it the Colosseum.",
+     "image_prompt": "Roman emperor Titus in purple toga standing in the imperial box of the Colosseum raising his hand to the crowd"},
+    {"narration": "The outside is bright travertine stone, with arches stacked in rows and statues filling them.",
+     "image_prompt": "exterior of the brand new Colosseum with complete arcades of arches on several levels, marble statues standing in the upper arches, clear sky"},
+    {"narration": "Your ticket points you to a numbered entrance. Seating is arranged by social rank.",
+     "image_prompt": "ancient Roman spectators entering through a numbered arched entrance, stone stairways inside, guards checking clay tokens"},
+    {"narration": "Above you, sailors rig a huge canvas awning, the velarium, to shade the crowd.",
+     "image_prompt": "giant canvas awning stretched over the top of the Colosseum on ropes and wooden masts, sailors pulling ropes, sunlight filtering through"},
+    {"narration": "The opening games last a hundred days, with animal hunts and gladiator fights.",
+     "image_prompt": "packed Colosseum seen from the upper seats during games, sandy arena floor below, gladiators small in the distance, roaring crowd"},
+    {"narration": "Later, under Domitian, a maze of tunnels and lifts was built under the arena floor.",
+     "image_prompt": "underground stone tunnels beneath the Colosseum arena, wooden lift mechanisms and cages, workers pulling ropes by torchlight"},
+    {"narration": "Earthquakes and stone robbers took half of it. Which ancient city should we visit next? Comment below.",
+     "image_prompt": "the Colosseum today, partly ruined outer wall, tourists around it, warm sunset light over Rome"}
+  ]
+}

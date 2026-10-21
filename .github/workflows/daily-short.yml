@@ -1,0 +1,73 @@
+name: Daily Short
+
+on:
+  schedule:
+    - cron: "19 1 * * *"   # 06:49 IST every day
+  workflow_dispatch:        # "Run workflow" button for a video on demand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-short
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stop if queue is empty
+        id: q
+        run: |
+          n=$(ls queue/*.json 2>/dev/null | wc -l)
+          echo "count=$n" >> "$GITHUB_OUTPUT"
+          echo "Scripts in queue: $n"
+
+      - name: Install ffmpeg and fonts
+        if: steps.q.outputs.count != '0'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+
+      - uses: actions/setup-python@v5
+        if: steps.q.outputs.count != '0'
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        if: steps.q.outputs.count != '0'
+        run: pip install -q edge-tts requests
+
+      - name: Render video
+        if: steps.q.outputs.count != '0'
+        run: python render.py
+
+      - name: Publish video as a release
+        if: steps.q.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="short-$(date -u +%Y%m%d)-${{ github.run_number }}"
+          gh release create "$tag" out/final.mp4 out/thumb.jpg \
+            --title "$(cat out/title.txt)" --notes-file out/upload.txt
+
+      - name: Keep files for download
+        if: steps.q.outputs.count != '0'
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-${{ github.run_number }}
+          path: |
+            out/final.mp4
+            out/thumb.jpg
+            out/upload.txt
+          retention-days: 30
+
+      - name: Mark script as done
+        if: steps.q.outputs.count != '0'
+        run: |
+          git config user.name "ai-shorts-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A queue done
+          git commit -m "Rendered: $(cat out/title.txt)"
+          git push

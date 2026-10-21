@@ -1,0 +1,23 @@
+{
+  "title": "The Day the Dinosaurs Ended",
+  "description": "66 million years ago, a rock about 10 km wide hit what is now Mexico. What that day actually looked like.",
+  "hashtags": ["#Dinosaurs", "#Asteroid", "#Science", "#EarthHistory", "#Shorts"],
+  "scenes": [
+    {"narration": "Sixty-six million years ago, it was an ordinary morning. Then a second sun appeared in the sky.",
+     "image_prompt": "prehistoric landscape with dinosaurs grazing near a river, a blazing fireball streaking across the sky like a second sun, late Cretaceous"},
+    {"narration": "An asteroid about ten kilometres wide was falling toward what is now Mexico's Yucatán coast.",
+     "image_prompt": "view from space of a huge rocky asteroid entering Earth's atmosphere above a shallow tropical sea, glowing plasma trail"},
+    {"narration": "It struck at tens of kilometres per second and carved a crater around 180 kilometres wide. Today we call it Chicxulub.",
+     "image_prompt": "massive impact explosion on a coastline, a towering column of fire and molten rock blasting upward, shockwave spreading across the sea"},
+    {"narration": "Molten debris rained back down across the planet, heating the sky and sparking fires.",
+     "image_prompt": "glowing red hot debris raining down on a burning forest at night, silhouettes of fleeing dinosaurs, sky glowing orange"},
+    {"narration": "Giant tsunamis surged across the Gulf of Mexico.",
+     "image_prompt": "an enormous tsunami wave rising over a prehistoric coastline with tall conifers, dark stormy sky, scale of a mountain"},
+    {"narration": "Soot and dust blocked sunlight for months, and temperatures fell. Plants struggled, and food chains collapsed.",
+     "image_prompt": "dark grey prehistoric world under a dim brown sky, dead leafless trees, ash covering the ground, a lone dinosaur in the gloom"},
+    {"narration": "Around three quarters of species vanished, including every dinosaur except the birds.",
+     "image_prompt": "dinosaur skeleton half buried in ash and sediment, a small feathered bird perched on a bone, faint sunlight breaking through"},
+    {"narration": "Small mammals survived, and that's why we're here. Want the day the Moon was born next? Comment moon.",
+     "image_prompt": "small furry early mammal emerging from a burrow into a recovering green landscape with ferns, soft morning light, hopeful mood"}
+  ]
+}

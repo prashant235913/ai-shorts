@@ -1,0 +1,23 @@
+{
+  "title": "A Giant Stone Clock Accurate to 2 Seconds",
+  "description": "In the 1700s, Jaipur built a sundial 27 metres tall. How Jantar Mantar measured time and the sky without a telescope.",
+  "hashtags": ["#JantarMantar", "#Jaipur", "#Astronomy", "#IndianHistory", "#Shorts"],
+  "scenes": [
+    {"narration": "Nearly three hundred years ago, India built a clock out of stone, as tall as a nine-storey building.",
+     "image_prompt": "a huge triangular stone sundial wall rising high into a clear sky, 18th century Jaipur, people small at its base, bright sun"},
+    {"narration": "It's the 1730s in Jaipur. Maharaja Sawai Jai Singh the Second is obsessed with the sky.",
+     "image_prompt": "18th century Rajput maharaja in fine robes and turban studying star charts and brass astronomical instruments in a palace room"},
+    {"narration": "He builds Jantar Mantar, a yard of giant instruments made of stone and marble.",
+     "image_prompt": "wide view of an open courtyard filled with giant geometric stone astronomical instruments, curved ramps and circular structures, Jaipur"},
+    {"narration": "The biggest, the Samrat Yantra, is a sundial about twenty-seven metres tall.",
+     "image_prompt": "the Samrat Yantra sundial at Jaipur, a massive staircase-like triangular gnomon with curved quadrant scales on both sides"},
+    {"narration": "Its shadow moves across the marked scale fast enough to read local time to about two seconds.",
+     "image_prompt": "close up of a sharp shadow edge moving across finely engraved marble time markings on a giant sundial, an astronomer watching"},
+    {"narration": "Other instruments track stars, planets and the sun's path through the year, all by eye.",
+     "image_prompt": "astronomers at night using a large bowl-shaped sunken stone instrument with markings to sight stars, starry sky above"},
+    {"narration": "He built similar observatories in other cities too, including Delhi.",
+     "image_prompt": "red sandstone astronomical instruments of an 18th century observatory in Delhi, tall curved walls and a central gnomon, morning light"},
+    {"narration": "Jaipur's Jantar Mantar is now a UNESCO site, and the sundial still works. Follow for more lost tech.",
+     "image_prompt": "present day Jantar Mantar Jaipur with visitors walking among the giant instruments, Nahargarh hills behind, golden hour"}
+  ]
+}

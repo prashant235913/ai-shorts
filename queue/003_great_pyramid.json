@@ -1,0 +1,23 @@
+{
+  "title": "The Great Pyramid When It Was Brand New",
+  "description": "It wasn't always sandy brown. What Khufu's pyramid looked like around 2560 BCE, and what a real 4,500-year-old logbook tells us.",
+  "hashtags": ["#Pyramids", "#AncientEgypt", "#Giza", "#History", "#Shorts"],
+  "scenes": [
+    {"narration": "The Great Pyramid wasn't always this rough brown colour. When it was new, it gleamed.",
+     "image_prompt": "the Great Pyramid of Giza brand new, covered in smooth polished white limestone casing reflecting bright sunlight, clear blue sky, ancient Egypt"},
+    {"narration": "It's around 2560 BCE, and you're standing at Giza as workers finish the tomb of the pharaoh Khufu.",
+     "image_prompt": "thousands of ancient Egyptian workers on the Giza plateau near a nearly finished pyramid, ramps, ropes, sledges, dust in golden light"},
+    {"narration": "Roughly two million stone blocks went into it. Many weigh more than two tonnes.",
+     "image_prompt": "teams of ancient Egyptian workers pulling a huge limestone block on a wooden sledge with ropes, a man pouring water in front of the sledge on the sand"},
+    {"narration": "The outer casing is fine white limestone, shipped across the Nile from the Tura quarries.",
+     "image_prompt": "wooden boats on the Nile river carrying large white limestone blocks, ancient Egyptian sailors, pyramid visible in the distance"},
+    {"narration": "We know this partly because an inspector named Merer kept a logbook of those boat trips. It's the oldest inscribed papyrus ever found.",
+     "image_prompt": "ancient Egyptian official writing on a papyrus scroll with a reed pen, sitting on a boat on the Nile, hieratic script visible, warm evening light"},
+    {"narration": "The finished pyramid stood about 146 metres tall, the tallest human-made structure on Earth for nearly four thousand years.",
+     "image_prompt": "low angle view looking up the steep smooth white face of the Great Pyramid towering into the sky, tiny people at its base for scale"},
+    {"narration": "Over the centuries, most of that white casing was stripped away and reused in other buildings.",
+     "image_prompt": "medieval workers prying white casing stones off the side of a great pyramid, piles of stones below, carts, hazy desert light"},
+    {"narration": "What you see today is the core. Which wonder should I rebuild next? Drop it below.",
+     "image_prompt": "the Great Pyramid of Giza today with its rough stepped core blocks exposed, desert sand, golden hour, camels in the foreground"}
+  ]
+}

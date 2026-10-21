@@ -1,0 +1,23 @@
+{
+  "title": "What Nalanda University Actually Looked Like",
+  "description": "Eight hundred years before Oxford's first lectures, students crossed Asia to study in Bihar. A look inside Nalanda at its peak.",
+  "hashtags": ["#Nalanda", "#AncientIndia", "#History", "#IndianHistory", "#Shorts"],
+  "scenes": [
+    {"narration": "Before Oxford held its first lecture, students were walking across Asia to reach one place in Bihar.",
+     "image_prompt": "a lone young monk traveller in saffron robes walking on a dusty road toward a vast red brick monastery complex at sunrise, Bihar plains, 7th century India"},
+    {"narration": "This is Nalanda, founded in the fifth century under the Gupta kings.",
+     "image_prompt": "wide aerial view of ancient Nalanda Mahavihara, rows of tall red brick monasteries and temples with courtyards, green fields around, morning mist"},
+    {"narration": "You walk past rows of brick monasteries. Each one is a courtyard ringed with small cells where students live and study.",
+     "image_prompt": "inside a red brick monastery courtyard of ancient Nalanda, small doorways of student cells around the square, monks reading palm leaf manuscripts, soft light"},
+    {"narration": "Teachers debate logic, medicine, grammar and Buddhist philosophy. Getting in is hard. Gatekeepers are said to test you at the door.",
+     "image_prompt": "two scholars in robes debating passionately before seated students on a stone platform, ancient Indian university, warm afternoon light"},
+    {"narration": "In the seventh century, the Chinese pilgrim Xuanzang studied here and wrote about thousands of monks and teachers.",
+     "image_prompt": "Chinese Buddhist pilgrim Xuanzang in Tang dynasty robes writing with a brush by oil lamp inside an ancient Indian monastery cell, scrolls around him"},
+    {"narration": "Its library held manuscripts on palm leaves, copied by hand, generation after generation.",
+     "image_prompt": "tall dim library hall of ancient Nalanda with shelves of stacked palm leaf manuscripts tied with string, monk copying a manuscript, shafts of light"},
+    {"narration": "Around 1200, invading forces sacked it. Old accounts say the library burned for months.",
+     "image_prompt": "ancient brick monastery library engulfed in flames at night, smoke rising into the dark sky, burning manuscripts, dramatic orange glow"},
+    {"narration": "Today its ruins are a UNESCO World Heritage Site. Which ancient place should we rebuild next? Tell me below.",
+     "image_prompt": "present day ruins of Nalanda University, weathered red brick walls and stairways under a blue sky, golden hour, tourists small in the distance"}
+  ]
+}

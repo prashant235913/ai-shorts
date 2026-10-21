@@ -1,0 +1,23 @@
+{
+  "title": "Konark Sun Temple: A Chariot Made of Stone",
+  "description": "A 13th-century temple built as the sun god's chariot, with 24 carved wheels. What Konark looked like when it was complete.",
+  "hashtags": ["#Konark", "#SunTemple", "#Odisha", "#IndianHistory", "#Shorts"],
+  "scenes": [
+    {"narration": "Imagine a temple built as a giant chariot, pulled across the sky by stone horses.",
+     "image_prompt": "a colossal stone temple carved as a chariot with giant wheels and galloping stone horses, Odisha coast, dramatic sunrise sky"},
+    {"narration": "This is Konark in Odisha, built around 1250 by King Narasimhadeva the First.",
+     "image_prompt": "medieval Indian king in royal attire overseeing construction of a grand stone temple, artisans and laborers around, scaffolding, Odisha 13th century"},
+    {"narration": "It's the chariot of Surya, the sun god, with twenty-four huge carved wheels and seven horses.",
+     "image_prompt": "close view of a row of enormous intricately carved stone chariot wheels along the base of an ancient Indian temple, morning sunlight"},
+    {"narration": "Each wheel is about three metres across, covered in carvings of everyday life, dancers and animals.",
+     "image_prompt": "extreme detail of a carved stone wheel with spokes and medallions showing dancers, musicians and animals, Konark style, soft shadows"},
+    {"narration": "People say the shadows cast by the spokes can be read like a sundial to tell the time.",
+     "image_prompt": "shadow of a stone wheel spoke falling across the carved rim of a temple wheel in bright sun, a person observing it closely"},
+    {"narration": "When complete, a towering main spire rose behind the hall, visible to sailors far out at sea.",
+     "image_prompt": "complete Konark sun temple with a very tall curved stone spire behind the assembly hall, seen from a sailing ship on the Bay of Bengal"},
+    {"narration": "European sailors called it the Black Pagoda. That great spire later collapsed.",
+     "image_prompt": "18th century European sailing ship near the Indian coast, sailors pointing at a dark stone temple tower on the shore, overcast sky"},
+    {"narration": "What survives is a UNESCO World Heritage Site. Have you been there? Tell me below.",
+     "image_prompt": "present day Konark Sun Temple ruins, the surviving assembly hall with carved wheels and horses, green lawns, tourists, golden hour"}
+  ]
+}

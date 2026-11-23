@@ -159,12 +159,21 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         ev.append(f"Dialogue: 1,{ass_time(0)},{ass_time(HOOK_SECS)},Hook,,0,0,0,,"
                   f"{{\\fad(0,250)\\t(0,180,\\fscx112\\fscy112)\\t(180,360,\\fscx100\\fscy100)}}"
                   f"{esc(hook.upper())}")
-    for g in range(0, len(words), group):
-        chunk = words[g:g + group]
+    # group up to `group` words, but start a new group after a pause (sentence/scene break)
+    chunks, cur = [], []
+    for w in words:
+        if cur and (len(cur) == group or w[0] - cur[-1][1] > 0.25):
+            chunks.append(cur)
+            cur = []
+        cur.append(w)
+    if cur:
+        chunks.append(cur)
+    for ci, chunk in enumerate(chunks):
+        nxt = chunks[ci + 1][0][0] if ci + 1 < len(chunks) else None
         for k, (s, e, _) in enumerate(chunk):
             end = chunk[k + 1][0] if k + 1 < len(chunk) else e + 0.12
-            if g + group < len(words) and k + 1 == len(chunk):
-                end = min(end, words[g + group][0])
+            if nxt is not None and k + 1 == len(chunk):
+                end = min(end, nxt)
             parts = []
             for j, (_, _, w) in enumerate(chunk):
                 w = esc(w.upper())

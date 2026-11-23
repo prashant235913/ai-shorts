@@ -184,10 +184,14 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 def main():
-    pending = sorted(QUEUE.glob("*.json"))
-    if not pending:
-        sys.exit("queue is empty - add scripts to queue/")
-    src = pending[0]
+    import os
+    if os.getenv("SCRIPT"):  # batch mode: render one named script
+        src = ROOT / os.environ["SCRIPT"]
+    else:
+        pending = sorted(QUEUE.glob("*.json"))
+        if not pending:
+            sys.exit("queue is empty - add scripts to queue/")
+        src = pending[0]
     data = json.loads(src.read_text(encoding="utf-8"))
     scenes = data["scenes"]
     print(f"Rendering: {data['title']} ({len(scenes)} scenes)")

@@ -1,0 +1,46 @@
+{
+ "title": "Found While Hunting a Tiger",
+ "hook": "Found While Hunting A Tiger",
+ "description": "How a British officer stumbled on the Ajanta Caves in 1819.",
+ "hashtags": [
+  "#Ajanta",
+  "#AjantaCaves",
+  "#IndianHistory",
+  "#Maharashtra",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "In 1819, a British officer chasing a tiger stumbled onto one of India's greatest treasures.",
+   "image_prompt": "British officer in 1819 uniform with rifle in dense Indian jungle, tiger in the bushes"
+  },
+  {
+   "narration": "John Smith looks across a ravine in Maharashtra and spots the top of a carved archway.",
+   "image_prompt": "carved stone archway peeking through jungle on a horseshoe-shaped cliff above a river"
+  },
+  {
+   "narration": "Inside are the Ajanta Caves: around thirty Buddhist cave monuments cut into the cliff.",
+   "image_prompt": "row of rock-cut cave entrances along a curved cliff face, river below"
+  },
+  {
+   "narration": "The oldest date back more than two thousand years.",
+   "image_prompt": "ancient Buddhist monks carving a cave hall into rock by lamp light"
+  },
+  {
+   "narration": "The walls are covered with paintings of the Buddha's past lives, princes, dancers and animals.",
+   "image_prompt": "ancient Indian mural painting of a graceful prince holding a lotus, rich colours"
+  },
+  {
+   "narration": "Painters used natural pigments, and some colours still glow today.",
+   "image_prompt": "artist grinding natural pigments and painting a cave wall by oil lamp"
+  },
+  {
+   "narration": "Smith scratched his name and the date onto a wall inside. It's still there.",
+   "image_prompt": "old graffiti signature scratched on an ancient painted cave pillar, torchlight"
+  },
+  {
+   "narration": "Today it's a UNESCO World Heritage Site. Have you been to Ajanta?",
+   "image_prompt": "Ajanta caves cliff in the monsoon with waterfall and green valley"
+  }
+ ]
+}

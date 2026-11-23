@@ -1,0 +1,46 @@
+{
+ "title": "The 13 Minutes Before the Moon Landing",
+ "hook": "Fuel Almost Gone",
+ "description": "Computer alarms, a boulder field and almost no fuel: the real story of Apollo 11's landing.",
+ "hashtags": [
+  "#Apollo11",
+  "#Moon",
+  "#NASA",
+  "#Space",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "Two men are about to land on the Moon, and their computer is flashing alarms.",
+   "image_prompt": "inside the Apollo lunar module cockpit, astronauts in spacesuits, warning light glowing, Moon through window"
+  },
+  {
+   "narration": "It's July 20th, 1969. The lunar module Eagle is dropping toward the Sea of Tranquility.",
+   "image_prompt": "Apollo lunar module descending above grey lunar surface, Earth in the black sky"
+  },
+  {
+   "narration": "Alarm 1202. Then 1201. Mission Control has seconds to decide: abort, or keep going.",
+   "image_prompt": "NASA Mission Control room 1969, engineers at consoles with headsets, tense faces"
+  },
+  {
+   "narration": "They say go. But the autopilot is heading for a field of boulders.",
+   "image_prompt": "lunar surface covered with large boulders and a crater seen from above through a small window"
+  },
+  {
+   "narration": "Neil Armstrong takes manual control and flies over the rocks, looking for a safe spot.",
+   "image_prompt": "astronaut gripping the control stick inside the lunar module, lunar surface rushing past outside"
+  },
+  {
+   "narration": "The fuel warning comes on. Mission Control calls out the seconds.",
+   "image_prompt": "lunar module hovering over the Moon, dust blowing from the engine plume"
+  },
+  {
+   "narration": "Then: Houston, Tranquility Base here. The Eagle has landed.",
+   "image_prompt": "Apollo lunar module standing on the Moon's surface, long shadows, black sky"
+  },
+  {
+   "narration": "Hours later, Armstrong steps onto the surface. Would you have gone? Comment below.",
+   "image_prompt": "astronaut's boot pressing into grey lunar dust, footprint, 1969"
+  }
+ ]
+}

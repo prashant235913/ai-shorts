@@ -1,0 +1,46 @@
+{
+ "title": "80 Million Trees Flattened in One Second",
+ "hook": "80 Million Trees. Flattened.",
+ "description": "The Tunguska event of 1908: a massive blast in Siberia, and no crater.",
+ "hashtags": [
+  "#Tunguska",
+  "#Siberia",
+  "#Space",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "Eighty million trees, knocked flat in a single instant. And no crater.",
+   "image_prompt": "vast Siberian forest with millions of trees knocked flat in a radial pattern, aerial view"
+  },
+  {
+   "narration": "It's the morning of June 30th, 1908, in remote Siberia, near the Tunguska River.",
+   "image_prompt": "quiet Siberian taiga forest and river at dawn, mist, 1908"
+  },
+  {
+   "narration": "A fireball streaks across the sky, brighter than the sun.",
+   "image_prompt": "blinding fireball streaking across the sky over the Siberian forest, long smoke trail"
+  },
+  {
+   "narration": "It explodes in the air, several kilometres above the forest.",
+   "image_prompt": "giant airburst explosion flash above a forest, shockwave visible in the sky"
+  },
+  {
+   "narration": "The blast flattens about two thousand square kilometres of forest.",
+   "image_prompt": "shockwave blowing down trees across a huge forest, dust and debris"
+  },
+  {
+   "narration": "Sixty kilometres away, a man is thrown from his chair, and his shirt feels like it's on fire.",
+   "image_prompt": "Russian man on a wooden trading post porch thrown backwards by a blast of heat and wind, 1908"
+  },
+  {
+   "narration": "Scientists think a space rock burst before it reached the ground.",
+   "image_prompt": "asteroid entering Earth's atmosphere glowing orange, view from space"
+  },
+  {
+   "narration": "If something like it hit a city today, the damage would be enormous. What do you think it was? Comment below.",
+   "image_prompt": "scientists in 1920s clothing walking through fallen scorched trees in Siberia"
+  }
+ ]
+}

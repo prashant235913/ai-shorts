@@ -1,0 +1,46 @@
+{
+ "title": "The Night Chernobyl Exploded",
+ "hook": "1:23 AM",
+ "description": "26 April 1986: a safety test at Reactor 4 goes wrong.",
+ "hashtags": [
+  "#Chernobyl",
+  "#1986",
+  "#History",
+  "#Nuclear",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "At 1:23 in the morning, a safety test goes terribly wrong.",
+   "image_prompt": "Chernobyl nuclear power plant at night 1986, glowing light rising from the reactor building"
+  },
+  {
+   "narration": "It's April 26th, 1986. Reactor number four at the Chernobyl power plant in Soviet Ukraine.",
+   "image_prompt": "Chernobyl power plant buildings and chimney at night, 1980s Soviet industrial"
+  },
+  {
+   "narration": "Operators are running a test at low power. The reactor is unstable.",
+   "image_prompt": "Soviet control room with operators at panels of dials and switches, tense, 1986"
+  },
+  {
+   "narration": "In seconds, power surges. Steam explodes and blows the massive lid off the reactor.",
+   "image_prompt": "explosion inside a reactor hall, debris and steam blasting upward, dramatic lighting"
+  },
+  {
+   "narration": "Firefighters rush in without knowing how much radiation they face.",
+   "image_prompt": "Soviet firefighters on a burning rooftop at night spraying water, smoke"
+  },
+  {
+   "narration": "The nearby city of Pripyat isn't evacuated until the next afternoon.",
+   "image_prompt": "long line of buses evacuating residents from a Soviet apartment town, 1986"
+  },
+  {
+   "narration": "Around three hundred and fifty thousand people were eventually moved away.",
+   "image_prompt": "empty abandoned Soviet town square with apartment blocks"
+  },
+  {
+   "narration": "Today, forest and wildlife are slowly taking the zone back. Would you visit? Comment below.",
+   "image_prompt": "abandoned Pripyat Ferris wheel surrounded by trees, autumn"
+  }
+ ]
+}

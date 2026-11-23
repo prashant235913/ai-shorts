@@ -1,0 +1,46 @@
+{
+ "title": "The Aztec City Built on a Lake",
+ "hook": "A City On A Lake",
+ "description": "Tenochtitlan in 1519: canals, causeways, floating gardens and a great pyramid.",
+ "hashtags": [
+  "#Aztec",
+  "#Tenochtitlan",
+  "#MexicoHistory",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "When Spanish soldiers first saw this city, some said it was like something from a dream.",
+   "image_prompt": "Spanish conquistadors on a causeway gazing at a vast Aztec city rising from a lake, 1519"
+  },
+  {
+   "narration": "It's 1519. This is Tenochtitlan, capital of the Aztecs, built on an island in Lake Texcoco.",
+   "image_prompt": "aerial view of Tenochtitlan on its island in a blue lake, white temples and canals, volcanoes behind"
+  },
+  {
+   "narration": "Huge causeways link the city to the shore. Canals run through it like streets.",
+   "image_prompt": "Aztec canoes gliding along a canal lined with white houses and flowers in Tenochtitlan"
+  },
+  {
+   "narration": "Around two hundred thousand people may live here, more than almost any city in Spain.",
+   "image_prompt": "huge busy Aztec market of Tlatelolco with traders, feathers, cacao, pottery and crowds"
+  },
+  {
+   "narration": "Farm plots built out into the lake, called chinampas, feed the city.",
+   "image_prompt": "Aztec farmers tending green chinampa garden plots surrounded by water canals"
+  },
+  {
+   "narration": "At the centre stands the Templo Mayor, a great pyramid with twin temples on top.",
+   "image_prompt": "the Templo Mayor pyramid of Tenochtitlan with twin shrines on top, smoke rising, crowds below"
+  },
+  {
+   "narration": "Within two years, war and smallpox would bring the city down.",
+   "image_prompt": "Tenochtitlan under siege, smoke over the lake, Spanish brigantines on the water"
+  },
+  {
+   "narration": "Today, Mexico City stands right on top of it. Which lost city should we rebuild next?",
+   "image_prompt": "modern Mexico City with the excavated Templo Mayor ruins in the foreground, sunset"
+  }
+ ]
+}

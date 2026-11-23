@@ -37,18 +37,20 @@ jobs:
 
       - name: Install Python packages
         if: steps.q.outputs.count != '0'
-        run: pip install -q edge-tts requests
+        run: pip install -q "edge-tts>=7" requests
 
       - name: Render video
         if: steps.q.outputs.count != '0'
         run: python render.py
 
       - name: Publish video as a release
+        id: rel
         if: steps.q.outputs.count != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           tag="short-$(date -u +%Y%m%d)-${{ github.run_number }}"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
           gh release create "$tag" out/final.mp4 out/thumb.jpg \
             --title "$(cat out/title.txt)" --notes-file out/upload.txt
 
@@ -71,3 +73,16 @@ jobs:
           git add -A queue done
           git commit -m "Rendered: $(cat out/title.txt)"
           git push
+
+      - name: Upload to YouTube and Instagram
+        if: steps.q.outputs.count != '0'
+        continue-on-error: true
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          VIDEO_URL: https://github.com/${{ github.repository }}/releases/download/${{ steps.rel.outputs.tag }}/final.mp4
+        run: python upload.py

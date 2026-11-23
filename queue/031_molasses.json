@@ -1,0 +1,46 @@
+{
+ "title": "The Deadly Wave of Syrup",
+ "hook": "A Wave Of Syrup",
+ "description": "Boston, 1919: a giant tank burst and sent a wave of molasses through the streets.",
+ "hashtags": [
+  "#MolassesFlood",
+  "#Boston",
+  "#WeirdHistory",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "In 1919, a wave of sticky syrup killed twenty-one people in Boston.",
+   "image_prompt": "dark brown wave of molasses sweeping through a 1919 city street, buildings"
+  },
+  {
+   "narration": "It's January 15th, 1919. A giant tank holds over eight million litres of molasses.",
+   "image_prompt": "huge steel storage tank next to a harbour in 1919 Boston, workers"
+  },
+  {
+   "narration": "Just after noon, the tank bursts with a sound like gunfire.",
+   "image_prompt": "steel tank bursting open with rivets flying, 1919, dramatic moment"
+  },
+  {
+   "narration": "A wave of molasses, several metres high, rushes through the streets.",
+   "image_prompt": "tall wave of molasses crashing through a neighbourhood street, people running"
+  },
+  {
+   "narration": "It crushes buildings and damages the elevated railway.",
+   "image_prompt": "damaged elevated railway structure and crushed wooden buildings covered in molasses"
+  },
+  {
+   "narration": "People and horses are trapped. Rescuers wade through waist-deep syrup.",
+   "image_prompt": "1919 rescuers wading through thick brown molasses pulling people out"
+  },
+  {
+   "narration": "The clean-up takes weeks. Locals said the harbour stayed brown for months.",
+   "image_prompt": "workers hosing down brown streets near a harbour, 1919"
+  },
+  {
+   "narration": "Some locals claimed the area smelled sweet on hot days for decades. Strangest disaster you know? Comment below.",
+   "image_prompt": "quiet Boston waterfront street on a hot summer day, 1920s"
+  }
+ ]
+}

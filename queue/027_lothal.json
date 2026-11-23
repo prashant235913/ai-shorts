@@ -1,0 +1,46 @@
+{
+ "title": "India's 4,000-Year-Old Port",
+ "hook": "A 4,000-Year-Old Port",
+ "description": "Lothal in Gujarat: a Harappan port town with what may be one of the world's earliest docks.",
+ "hashtags": [
+  "#Lothal",
+  "#IndusValley",
+  "#Harappa",
+  "#IndianHistory",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "Over four thousand years ago, boats were docking here, in Gujarat.",
+   "image_prompt": "ancient brick dock basin with wooden boats, Indus valley port town, morning"
+  },
+  {
+   "narration": "This is Lothal, a port town of the Indus Valley Civilisation.",
+   "image_prompt": "aerial view of an ancient Harappan brick town with grid streets beside a river"
+  },
+  {
+   "narration": "Its huge brick basin is thought by many archaeologists to be one of the world's earliest dockyards.",
+   "image_prompt": "large rectangular brick basin filled with water and boats, workers unloading"
+  },
+  {
+   "narration": "Beads made from carnelian travel all the way to Mesopotamia.",
+   "image_prompt": "ancient trader holding red carnelian bead necklaces, cargo jars, boat"
+  },
+  {
+   "narration": "Streets are laid out in a grid, with drains running along them.",
+   "image_prompt": "ancient Harappan street with covered brick drains and houses, people walking"
+  },
+  {
+   "narration": "Workshops make beads, shell jewellery and copper tools.",
+   "image_prompt": "ancient bead makers drilling carnelian beads in a workshop, shell bangles"
+  },
+  {
+   "narration": "Seals carved with animals and a script we still can't read mark the goods.",
+   "image_prompt": "close up of square Indus seal with unicorn-like animal and script signs, clay"
+  },
+  {
+   "narration": "The Indus script is still not deciphered. Do you think we'll ever read it?",
+   "image_prompt": "Lothal archaeological site today, brick remains under blue sky"
+  }
+ ]
+}

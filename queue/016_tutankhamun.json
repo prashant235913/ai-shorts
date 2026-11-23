@@ -1,0 +1,46 @@
+{
+ "title": "Opening Tutankhamun's Tomb After 3,000 Years",
+ "hook": "Sealed For 3,000 Years",
+ "description": "November 1922: a candle, a small hole and 'wonderful things'.",
+ "hashtags": [
+  "#Tutankhamun",
+  "#Egypt",
+  "#Archaeology",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "For more than three thousand years, nobody had seen inside this room.",
+   "image_prompt": "dark sealed ancient Egyptian tomb chamber filled with golden objects, a beam of light entering"
+  },
+  {
+   "narration": "It's November 1922, in Egypt's Valley of the Kings. Howard Carter has found a hidden staircase.",
+   "image_prompt": "archaeologist in 1920s clothing and Egyptian workers uncovering stone steps in desert rock, Valley of the Kings"
+  },
+  {
+   "narration": "His sponsor, Lord Carnarvon, rushes over from England to see it.",
+   "image_prompt": "English aristocrat in 1920s suit arriving on horseback in the Egyptian desert valley"
+  },
+  {
+   "narration": "Carter makes a small hole in a sealed doorway and holds up a candle.",
+   "image_prompt": "archaeologist holding a candle up to a small hole in a plastered tomb doorway, faces lit by flame"
+  },
+  {
+   "narration": "Asked if he can see anything, he answers: yes, wonderful things.",
+   "image_prompt": "candlelight revealing golden statues, couches and chests piled inside a tomb, glinting gold"
+  },
+  {
+   "narration": "Gold everywhere. Chariots, statues, thrones, and couches shaped like animals.",
+   "image_prompt": "golden ancient Egyptian throne and gilded animal-shaped couches in a tomb, dramatic light"
+  },
+  {
+   "narration": "Deeper inside lies the boy king himself, wearing a solid gold mask.",
+   "image_prompt": "golden funerary mask of an ancient Egyptian pharaoh in a stone sarcophagus, soft lamp light"
+  },
+  {
+   "narration": "Over five thousand objects came out of one small tomb. Which treasure would you want to see? Tell me.",
+   "image_prompt": "Valley of the Kings at sunset, tomb entrances in the cliffs"
+  }
+ ]
+}

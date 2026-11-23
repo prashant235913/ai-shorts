@@ -1,0 +1,46 @@
+{
+ "title": "The First Olympics Had Just One Race",
+ "hook": "776 BCE",
+ "description": "The ancient Olympic Games at Olympia, Greece.",
+ "hashtags": [
+  "#Olympics",
+  "#AncientGreece",
+  "#Sports",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "The first recorded Olympic Games had just one event: a running race.",
+   "image_prompt": "ancient Greek runners sprinting in a stadium at Olympia, crowds on grassy banks"
+  },
+  {
+   "narration": "It's 776 BCE, at Olympia in Greece. Athletes race the length of the stadium, about 190 metres.",
+   "image_prompt": "ancient Olympia sanctuary with temples and a long earthen stadium"
+  },
+  {
+   "narration": "Tradition says the winner is a cook named Koroibos.",
+   "image_prompt": "ancient Greek athlete crossing the finish line, raising arms, crowd cheering"
+  },
+  {
+   "narration": "Over the centuries, wrestling, boxing and chariot racing are added.",
+   "image_prompt": "ancient Greek four-horse chariot race thundering around a hippodrome"
+  },
+  {
+   "narration": "Athletes compete naked, and married women generally aren't allowed to watch.",
+   "image_prompt": "ancient Greek wrestlers in a sandy pit with judges holding rods, crowd"
+  },
+  {
+   "narration": "Winners receive a crown of olive leaves, and become heroes back home.",
+   "image_prompt": "ancient Greek athlete being crowned with an olive wreath by a judge"
+  },
+  {
+   "narration": "During the Games, a sacred truce lets athletes and fans travel safely.",
+   "image_prompt": "crowds of ancient Greek travellers walking along a road toward Olympia"
+  },
+  {
+   "narration": "The Games ran for over a thousand years. Which event would you enter?",
+   "image_prompt": "ruins of the stadium entrance at Olympia today, green trees"
+  }
+ ]
+}

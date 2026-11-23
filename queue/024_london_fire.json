@@ -1,0 +1,46 @@
+{
+ "title": "One Bakery Burned Down London",
+ "hook": "One Bakery. 13,000 Houses.",
+ "description": "The Great Fire of London, September 1666.",
+ "hashtags": [
+  "#GreatFireOfLondon",
+  "#London",
+  "#1666",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "It started in one bakery, and it destroyed around thirteen thousand houses.",
+   "image_prompt": "medieval London street of timber houses engulfed in flames at night, 1666"
+  },
+  {
+   "narration": "It's September 2nd, 1666. Just after midnight, a fire breaks out on Pudding Lane in London.",
+   "image_prompt": "small bakery on a narrow London lane with first flames at night, 17th century"
+  },
+  {
+   "narration": "Houses are wooden, packed tightly together, and it's been a dry summer.",
+   "image_prompt": "narrow 17th century London street with overhanging timber houses, daytime"
+  },
+  {
+   "narration": "A strong east wind drives the flames across the city.",
+   "image_prompt": "wind-driven fire spreading across rooftops of 17th century London, sparks"
+  },
+  {
+   "narration": "People drag their belongings to the River Thames and escape by boat.",
+   "image_prompt": "crowds loading belongings into small boats on the Thames with the city burning behind"
+  },
+  {
+   "narration": "Old St Paul's Cathedral catches fire. Melted lead from its roof runs down the street.",
+   "image_prompt": "old gothic St Paul's Cathedral burning with flames from the roof, night"
+  },
+  {
+   "narration": "To stop it, houses are blown up with gunpowder to make firebreaks.",
+   "image_prompt": "17th century soldiers blowing up houses with gunpowder, explosion and dust"
+  },
+  {
+   "narration": "After four days, it's out. Would you have stayed or fled? Tell me below.",
+   "image_prompt": "smoking ruins of 17th century London at dawn, church towers standing"
+  }
+ ]
+}

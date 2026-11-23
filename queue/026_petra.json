@@ -1,0 +1,46 @@
+{
+ "title": "Petra: The City Carved Into Pink Rock",
+ "hook": "Carved Into A Cliff",
+ "description": "The Nabataean capital in today's Jordan, around the 1st century.",
+ "hashtags": [
+  "#Petra",
+  "#Jordan",
+  "#Nabataeans",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "This entire building is carved straight into a cliff.",
+   "image_prompt": "the Treasury of Petra carved into pink sandstone cliff, sunlight"
+  },
+  {
+   "narration": "It's the first century, in Petra, in today's Jordan. This is the capital of the Nabataeans.",
+   "image_prompt": "bustling ancient Petra city with tombs carved into rock and people in robes"
+  },
+  {
+   "narration": "They grow rich from trade: incense, spices and silk moving across the desert.",
+   "image_prompt": "camel caravan carrying spices and incense through a desert canyon"
+  },
+  {
+   "narration": "You enter through the Siq, a narrow canyon more than a kilometre long.",
+   "image_prompt": "narrow winding sandstone canyon with towering walls, travellers on camels"
+  },
+  {
+   "narration": "Then, the Treasury appears, glowing pink in the sunlight.",
+   "image_prompt": "first glimpse of the Treasury through the narrow canyon opening, glowing pink"
+  },
+  {
+   "narration": "Clever dams and channels collect rare rainwater for thousands of people.",
+   "image_prompt": "ancient water channel carved along a sandstone canyon wall, flowing water"
+  },
+  {
+   "narration": "Rome takes over in 106 CE, and trade routes slowly move away.",
+   "image_prompt": "Roman soldiers marching into Petra with colonnaded street"
+  },
+  {
+   "narration": "The outside world forgot about Petra for centuries. Where should we travel next?",
+   "image_prompt": "Petra Monastery at sunset, a lone traveller"
+  }
+ ]
+}

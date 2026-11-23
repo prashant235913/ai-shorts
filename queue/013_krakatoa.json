@@ -1,0 +1,46 @@
+{
+ "title": "The Loudest Sound in Recorded History",
+ "hook": "Heard 4,800 km Away",
+ "description": "Krakatoa, 1883: an eruption heard across the Indian Ocean.",
+ "hashtags": [
+  "#Krakatoa",
+  "#Volcano",
+  "#Indonesia",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "This was the loudest sound in recorded history. People heard it nearly five thousand kilometres away.",
+   "image_prompt": "colossal volcanic explosion on a tropical island, shockwave rippling across the sea, 1883"
+  },
+  {
+   "narration": "It's August 27th, 1883. The volcanic island of Krakatoa, between Java and Sumatra.",
+   "image_prompt": "Krakatoa volcano island smoking in a tropical strait, sailing ships nearby, 19th century"
+  },
+  {
+   "narration": "After months of rumbling, a series of colossal eruptions tears the island apart.",
+   "image_prompt": "enormous ash column and lightning above Krakatoa, sea boiling, darkness at midday"
+  },
+  {
+   "narration": "On the island of Rodrigues, far across the Indian Ocean, people think it's distant cannon fire.",
+   "image_prompt": "19th century islanders on a beach turning toward the horizon in alarm, calm sea"
+  },
+  {
+   "narration": "The pressure wave circles the Earth several times. Barometers around the world record it.",
+   "image_prompt": "Victorian scientist looking at a barometer needle jumping in a wood-panelled observatory"
+  },
+  {
+   "narration": "Tsunamis over thirty metres high strike the nearby coasts.",
+   "image_prompt": "giant tsunami wave approaching a coastal village with palm trees and stilt houses, 1883"
+  },
+  {
+   "narration": "More than thirty-six thousand people die.",
+   "image_prompt": "ruined coastal village after a tsunami, grey ash-covered landscape, survivors in distance"
+  },
+  {
+   "narration": "Ash in the sky turned sunsets blood red around the world for months. Which disaster should we cover next?",
+   "image_prompt": "blood red dramatic sunset over a European city with church towers, 1883"
+  }
+ ]
+}

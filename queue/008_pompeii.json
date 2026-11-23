@@ -1,0 +1,46 @@
+{
+ "title": "The Last Morning of Pompeii",
+ "hook": "This City Had Hours Left",
+ "description": "A normal morning in a busy Roman town, hours before Vesuvius buried it.",
+ "hashtags": [
+  "#Pompeii",
+  "#Vesuvius",
+  "#AncientRome",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "This city has about eighteen hours left, and nobody here knows it.",
+   "image_prompt": "bustling ancient Roman street in Pompeii, open shops and townspeople, green Mount Vesuvius in the background, bright morning sun"
+  },
+  {
+   "narration": "It's 79 CE. Pompeii is a busy Roman town of ten to twenty thousand people.",
+   "image_prompt": "Pompeii forum crowded with Roman merchants and citizens, temple columns, colourful painted walls"
+  },
+  {
+   "narration": "Bakers pull bread from stone ovens. Some of these loaves will be found almost two thousand years later.",
+   "image_prompt": "Roman baker pulling round loaves of bread from a stone oven, flour mills, warm firelight"
+  },
+  {
+   "narration": "Around midday, Vesuvius explodes. A column of ash and rock shoots over thirty kilometres into the sky.",
+   "image_prompt": "massive eruption column rising from Mount Vesuvius above the Roman town of Pompeii, people in the street looking up in shock"
+  },
+  {
+   "narration": "Pumice rains down for hours. Roofs start to collapse under the weight.",
+   "image_prompt": "grey pumice stones raining down on Roman rooftops, darkened sky, people covering heads with pillows"
+  },
+  {
+   "narration": "Many people flee toward the sea. Those who stay face something far worse.",
+   "image_prompt": "crowds of Romans fleeing toward the coast with carts, ash-filled dark sky, boats on rough sea"
+  },
+  {
+   "narration": "Early next morning, a surge of superheated gas and ash races down the mountain and buries the town.",
+   "image_prompt": "glowing pyroclastic cloud rushing down the slopes of Vesuvius toward Pompeii at dawn, apocalyptic scale"
+  },
+  {
+   "narration": "Pompeii stayed hidden for almost 1,700 years. Would you have run, or stayed? Tell me below.",
+   "image_prompt": "excavated ruins of Pompeii today with Vesuvius behind, golden evening light, tourists in the distance"
+  }
+ ]
+}

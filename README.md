@@ -2,7 +2,7 @@
 
 Turns researched scripts into narrated vertical Shorts (1080x1920) with AI images,
 camera-motion effects, captions and optional background music. Runs entirely on
-GitHub Actions; no API keys or secrets are needed.
+GitHub Actions. Optional auto-upload to YouTube and Instagram. See **SETUP.md**.
 
 ## How it works
 
@@ -11,7 +11,8 @@ GitHub Actions; no API keys or secrets are needed.
 2. Every day, the **Daily Short** workflow renders the oldest script:
    - images: Pollinations (Flux)
    - voice: edge-tts
-   - zoom/pan motion, fades and burned-in captions: ffmpeg
+   - zoom/pan motion, a hook title for the first seconds and word-by-word highlighted captions: ffmpeg
+   - upload to YouTube / Instagram if their secrets are set (`upload.py`)
 3. The video is published as a GitHub Release (`final.mp4`, `thumb.jpg`, upload text),
    and the script moves to `done/`.
 
@@ -29,6 +30,7 @@ It loops under the narration at low volume.
 ```json
 {
   "title": "...",
+  "hook": "Short on-screen hook text",
   "description": "...",
   "hashtags": ["#History", "#Shorts"],
   "scenes": [

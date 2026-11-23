@@ -1,0 +1,46 @@
+{
+ "title": "The Day the Viking Age Began",
+ "hook": "The Viking Age Begins",
+ "description": "June 793: longships reach the monastery island of Lindisfarne.",
+ "hashtags": [
+  "#Vikings",
+  "#Lindisfarne",
+  "#MedievalHistory",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "This raid is often called the start of the Viking Age.",
+   "image_prompt": "Viking longships with dragon-head prows approaching a rocky coast, stormy sky"
+  },
+  {
+   "narration": "It's June 793. Lindisfarne, a quiet monastery island off the coast of northern England.",
+   "image_prompt": "small early medieval stone monastery on a green island by the sea"
+  },
+  {
+   "narration": "Monks are at prayer when longships appear on the horizon.",
+   "image_prompt": "monks in brown robes looking out to sea at longships on the horizon"
+  },
+  {
+   "narration": "Raiders from Scandinavia leap onto the beach.",
+   "image_prompt": "Viking warriors with round shields jumping from longships onto a sandy beach"
+  },
+  {
+   "narration": "They take gold, silver and treasures from the church.",
+   "image_prompt": "Viking warriors carrying gold chalices and chests out of a monastery"
+  },
+  {
+   "narration": "The scholar Alcuin writes that nothing like it had ever been seen in Britain.",
+   "image_prompt": "medieval scholar writing a letter by candlelight with a quill, worried"
+  },
+  {
+   "narration": "Over the next two centuries, Vikings raid, trade and settle across Europe.",
+   "image_prompt": "Viking trading town with longships, markets and longhouses"
+  },
+  {
+   "narration": "They even reached North America. Would you have joined a Viking crew?",
+   "image_prompt": "Viking longship sailing on open ocean at sunset"
+  }
+ ]
+}

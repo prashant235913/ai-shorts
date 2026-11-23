@@ -1,0 +1,46 @@
+{
+ "title": "The Library That Tried to Own Every Book",
+ "hook": "Every Book In The World",
+ "description": "The Library of Alexandria and the legend of copying every scroll that came to town.",
+ "hashtags": [
+  "#Alexandria",
+  "#AncientEgypt",
+  "#Library",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "This library tried to collect every book in the world.",
+   "image_prompt": "grand ancient library hall with shelves of papyrus scrolls, columns, scholars reading"
+  },
+  {
+   "narration": "It's around 250 BCE in Alexandria, Egypt. Greek kings called the Ptolemies are paying scholars to work here.",
+   "image_prompt": "Hellenistic Alexandria harbour with lighthouse of Pharos, ships, white buildings"
+  },
+  {
+   "narration": "Legend says ships arriving in the harbour are searched for books.",
+   "image_prompt": "ancient guards inspecting a merchant ship's cargo of scrolls at a harbour dock"
+  },
+  {
+   "narration": "The library keeps the originals, and gives the owners copies.",
+   "image_prompt": "scribes copying papyrus scrolls at long tables, oil lamps, ancient Egypt"
+  },
+  {
+   "narration": "Scholars here measure the Earth, study the stars and edit Homer.",
+   "image_prompt": "ancient Greek scholar measuring shadows with a stick in the sun, diagrams in sand"
+  },
+  {
+   "narration": "Its collection may have held tens or even hundreds of thousands of scrolls.",
+   "image_prompt": "endless ancient shelves filled with scroll cases, light from high windows"
+  },
+  {
+   "narration": "It wasn't destroyed in one great fire. It declined over centuries.",
+   "image_prompt": "abandoned dusty ancient library hall with scattered scrolls, broken columns"
+  },
+  {
+   "narration": "What lost book do you wish had survived? Comment below.",
+   "image_prompt": "single ancient scroll on a stone table in a beam of light"
+  }
+ ]
+}

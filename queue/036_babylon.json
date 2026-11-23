@@ -1,0 +1,46 @@
+{
+ "title": "The Wonder Nobody Can Find",
+ "hook": "A Wonder Nobody Found",
+ "description": "Did the Hanging Gardens of Babylon really exist?",
+ "hashtags": [
+  "#HangingGardens",
+  "#Babylon",
+  "#SevenWonders",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "One of the Seven Wonders of the Ancient World may never have existed.",
+   "image_prompt": "lush terraced gardens with waterfalls rising above an ancient Mesopotamian city"
+  },
+  {
+   "narration": "Ancient writers describe gardens rising in terraces above Babylon, in today's Iraq.",
+   "image_prompt": "ancient Babylon with ziggurat, blue Ishtar gate and the Euphrates river"
+  },
+  {
+   "narration": "Legend says King Nebuchadnezzar the Second built them for his homesick wife.",
+   "image_prompt": "Babylonian king and queen on a palace terrace looking at green gardens"
+  },
+  {
+   "narration": "Trees and flowers grow on stone terraces, watered by machines lifting water from the river.",
+   "image_prompt": "ancient water-lifting machine with wheels and buckets raising water to terraces"
+  },
+  {
+   "narration": "But Babylonian records from his reign never mention them.",
+   "image_prompt": "clay cuneiform tablets on a table in an ancient archive, lamp light"
+  },
+  {
+   "narration": "Archaeologists have dug at Babylon for over a century without clear proof.",
+   "image_prompt": "archaeologists excavating mud-brick ruins in the Iraqi desert, early 20th century"
+  },
+  {
+   "narration": "One scholar argues they were actually in Nineveh, built by a different king.",
+   "image_prompt": "ancient Assyrian city of Nineveh with palace gardens and an aqueduct"
+  },
+  {
+   "narration": "Real, myth, or in the wrong city? What do you think?",
+   "image_prompt": "ruins of ancient Babylon at sunset, desert haze"
+  }
+ ]
+}

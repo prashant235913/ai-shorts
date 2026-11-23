@@ -1,0 +1,46 @@
+{
+ "title": "Machu Picchu When People Lived There",
+ "hook": "A City In The Clouds",
+ "description": "What life looked like at the Inca emperor's mountain estate around 1450.",
+ "hashtags": [
+  "#MachuPicchu",
+  "#Inca",
+  "#Peru",
+  "#History",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "Imagine waking up here every morning, nearly two and a half kilometres up, in the clouds.",
+   "image_prompt": "Machu Picchu at sunrise above the clouds, thatched roofs on stone houses, Andes peaks"
+  },
+  {
+   "narration": "It's around 1450. The Inca emperor Pachacuti has built a royal estate high in the Andes of Peru.",
+   "image_prompt": "Inca emperor in gold and feathered headdress overlooking a mountain estate with nobles"
+  },
+  {
+   "narration": "Stone walls fit together so tightly that you can't slide a knife between the blocks.",
+   "image_prompt": "close up of perfectly fitted Inca stone wall blocks without mortar, morning light"
+  },
+  {
+   "narration": "Terraces climb the mountainsides, growing crops and stopping landslides.",
+   "image_prompt": "green Inca agricultural terraces on steep slopes with farmers and llamas"
+  },
+  {
+   "narration": "Hundreds of people live and work here, serving the emperor's household.",
+   "image_prompt": "Inca people weaving colourful textiles and cooking inside a stone village, llamas nearby"
+  },
+  {
+   "narration": "Fresh water flows in through stone channels from a mountain spring.",
+   "image_prompt": "stone water channel and fountain in an Inca city, clear water flowing"
+  },
+  {
+   "narration": "Within about a hundred years, the site is abandoned. The Spanish never find it.",
+   "image_prompt": "empty overgrown Inca ruins covered in jungle and mist"
+  },
+  {
+   "narration": "It became world famous in 1911. Would you climb all the way up here? Comment below.",
+   "image_prompt": "Machu Picchu today with Huayna Picchu mountain behind, bright day"
+  }
+ ]
+}

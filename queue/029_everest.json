@@ -1,0 +1,46 @@
+{
+ "title": "The First Two People on Top of Everest",
+ "hook": "Top Of The World",
+ "description": "29 May 1953: Tenzing Norgay and Edmund Hillary reach the summit.",
+ "hashtags": [
+  "#Everest",
+  "#Tenzing",
+  "#Hillary",
+  "#Himalaya",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "No human had ever stood here. Until this morning.",
+   "image_prompt": "summit ridge of Mount Everest with snow plume, two tiny climbers, deep blue sky"
+  },
+  {
+   "narration": "It's May 29th, 1953. Tenzing Norgay and Edmund Hillary are close to the top of Mount Everest.",
+   "image_prompt": "two 1950s mountaineers with oxygen tanks climbing a snowy ridge high in the Himalaya"
+  },
+  {
+   "narration": "They've spent the night in a tiny tent at about 8,500 metres.",
+   "image_prompt": "small tent on a steep snowy ledge at night high on a mountain, stars"
+  },
+  {
+   "narration": "Hillary's boots froze overnight. He warms them over a stove.",
+   "image_prompt": "1950s climber thawing frozen boots over a small stove inside a tent"
+  },
+  {
+   "narration": "A steep rock step blocks the ridge. Hillary squeezes up a crack beside it.",
+   "image_prompt": "climber wedged in a crack between rock and ice on a narrow summit ridge"
+  },
+  {
+   "narration": "At 11:30 in the morning, they reach the summit.",
+   "image_prompt": "two mountaineers standing on the summit of Everest, flags, endless peaks below"
+  },
+  {
+   "narration": "They spend about fifteen minutes on top. Tenzing leaves offerings in the snow.",
+   "image_prompt": "Sherpa climber placing small offerings in the snow on a summit"
+  },
+  {
+   "narration": "Everest is 8,849 metres tall. Would you ever try to climb it? Comment below.",
+   "image_prompt": "Mount Everest at sunset glowing orange above clouds"
+  }
+ ]
+}

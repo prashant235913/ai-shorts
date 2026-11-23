@@ -1,0 +1,46 @@
+{
+ "title": "Titanic's Final 2 Hours and 40 Minutes",
+ "hook": "2 Hours 40 Minutes",
+ "description": "From the iceberg to the last moments, the timeline of the Titanic's final night.",
+ "hashtags": [
+  "#Titanic",
+  "#1912",
+  "#History",
+  "#Ocean",
+  "#Shorts"
+ ],
+ "scenes": [
+  {
+   "narration": "From the moment it hit the iceberg, the Titanic had two hours and forty minutes left.",
+   "image_prompt": "RMS Titanic sailing at night on a flat calm black ocean, lights glowing, stars above"
+  },
+  {
+   "narration": "It's April 14th, 1912. Twenty to midnight. The North Atlantic is flat calm and freezing.",
+   "image_prompt": "lookout in the crow's nest of the Titanic peering into the dark freezing night, breath visible"
+  },
+  {
+   "narration": "The lookout rings the bell. Iceberg, right ahead. The ship turns, but not enough.",
+   "image_prompt": "huge iceberg looming in front of the Titanic bow at night, ship starting to turn"
+  },
+  {
+   "narration": "The ice scrapes along the side, opening several compartments to the sea.",
+   "image_prompt": "seawater rushing into a lit boiler room of the Titanic, stokers running"
+  },
+  {
+   "narration": "There are lifeboats for only about half the people on board.",
+   "image_prompt": "crew lowering a wooden lifeboat down the side of the tilted Titanic at night, passengers in coats"
+  },
+  {
+   "narration": "The first boats leave half empty. Many passengers can't believe the ship will sink.",
+   "image_prompt": "half empty lifeboat rowing away from the brightly lit Titanic tilting by the bow"
+  },
+  {
+   "narration": "At 2:20 in the morning, the Titanic breaks apart and disappears.",
+   "image_prompt": "the Titanic stern rising high out of the dark ocean under the stars, lights going out"
+  },
+  {
+   "narration": "More than 1,500 people died. The rescue ship arrived less than two hours later. Could more have been saved? Comment below.",
+   "image_prompt": "rescue ship Carpathia at dawn among icebergs picking up survivors from lifeboats"
+  }
+ ]
+}

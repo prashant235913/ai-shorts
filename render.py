@@ -45,18 +45,19 @@ def duration(path):
 
 
 def get_image(prompt, path, seed):
-    for attempt in range(6):
+    for attempt in range(12):
+        model = "flux" if attempt < 8 else "turbo"
         url = (f"https://image.pollinations.ai/prompt/{quote(prompt + ', ' + STYLE)}"
-               f"?width={W}&height={H}&seed={seed + attempt * 1000}&nologo=true&model=flux")
+               f"?width={W}&height={H}&seed={seed + attempt * 1000}&nologo=true&model={model}")
         try:
             r = requests.get(url, timeout=240)
             if r.ok and r.headers.get("content-type", "").startswith("image") and len(r.content) > 20000:
                 path.write_bytes(r.content)
                 return
-            print(f"  image attempt {attempt + 1}: HTTP {r.status_code}")
+            print(f"  image attempt {attempt + 1}: HTTP {r.status_code} {r.text[:120]!r}")
         except requests.RequestException as e:
             print(f"  image attempt {attempt + 1}: {e}")
-        time.sleep(10 * (attempt + 1))
+        time.sleep(min(20 * (attempt + 1), 120))
     sys.exit(f"image failed: {prompt[:60]}")
 
 
@@ -213,7 +214,7 @@ def main():
         timeline += [(t0 + s, t0 + e, w) for s, e, w in words]
         t0 += dur
         clips.append(clip.name)
-        time.sleep(3)  # be gentle with the free image service
+        time.sleep(8)  # be gentle with the free image service
 
     (OUT / "list.txt").write_text("".join(f"file '{c}'\n" for c in clips))
     run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", "list.txt", "-c", "copy", "joined.mp4"], cwd=OUT)
